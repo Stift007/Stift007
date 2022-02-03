@@ -1,5 +1,5 @@
 - Discord Bot Developer
 - Bot Reviewer on botlist.me 
-- Moderator & Administrator on 10 Servers
+- Knows Python, JS, Java, PHP, React.JS, C, C++
 - Verified Idiot
 - Hire me: https://dscjobs.org/cv/685180177419993102
