@@ -1,5 +1,12 @@
-- Discord Bot Developer
-- Bot Reviewer on botlist.me 
-- Knows Python, JS, Java, PHP, React.JS, C, C++
-- Verified Idiot
-- Hire me: https://dscjobs.org/cv/685180177419993102
+- 👋 Hi, I’m @DS_Stift007
+- 🚩German
+- 🗣 14 years
+- 🤝 Working for [BotList.me](https://botlist.me)
+- 📣 Hire me (Moderator or Dev!): [DscJobs](https://dscjobs.org/cv/685180177419993102)
+- 👀 My favorite languages are Python and C++
+- 💻 Windows 10 Home (20H2)
+- 🖥 OpenSUSE Leap 15.2
+- 📄 IDEs:
+  - ♥ VSCode (Larger Projects)
+  - ⚛ Atom (Smaller Projects)
+  - 😐 CodeChan (**Very** small Projects)
